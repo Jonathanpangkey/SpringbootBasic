@@ -1,2 +1,2 @@
 # SpringbootBasic
-Simple rest api for learning spring java
+Simple rest api for learning basic spring java
